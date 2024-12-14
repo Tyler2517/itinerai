@@ -1,0 +1,2 @@
+# itinerai
+AI trip planner
